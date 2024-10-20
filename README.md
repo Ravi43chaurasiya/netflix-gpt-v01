@@ -10,18 +10,29 @@
 #features:
 
 -login/sign up page
+
   -sign in / sign up form
+  
   -redirect to browse page
+  
 -browse(after authentication)
+
  -header
+ 
  -main Movie
+ 
    -trailer in background
+   
    -title and description
+   
    -movie suggestion
+   
      -movielist*n
 
 -netflixgpt
+
   -search bar
+  
   -Movie suggestions
 
 
