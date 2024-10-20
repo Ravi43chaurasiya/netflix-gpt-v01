@@ -8,6 +8,7 @@
 (visit tailwind site to see steps for cra)
 
 #features:
+
 -login/sign up page
   -sign in / sign up form
   -redirect to browse page
